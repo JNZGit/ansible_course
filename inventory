@@ -1,2 +1,5 @@
-137.99.80.210 apache_package=apache2 php_package=libapache2-mod-php
-137.99.80.46 apache_package=httpd php_package=php
+[web_servers]
+137.99.80.210
+
+[db_servers]
+137.99.80.46
